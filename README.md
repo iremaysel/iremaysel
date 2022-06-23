@@ -1,6 +1,6 @@
 <h1>Hi, I'm İrem Aysel 👋</h1>
 
-[![Medium](https://img.shields.io/badge/Blog-Medium-informational?style=flat-square&logo=jekyll&logoColor=white)](https://medium.com/@aysel.ipek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iremayselipek-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iremayselipek/)
+[![Medium](https://img.shields.io/badge/Blog-Medium-informational?style=flat-square&logo=jekyll&logoColor=white)](https://medium.com/@aysel.ipek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iremayselipek-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iremayselipek/) [![Envato](https://img.shields.io/badge/Envato-iremipek-informational?style=flat-square&logo=jekyll&logoColor=white)](https://codecanyon.net/user/iremipek/portfolio/)
 
  ## My GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremaysel&hide=TeX&layout=compact)
